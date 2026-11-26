@@ -1,9 +1,3 @@
-Mediroza General Hospital - Penetration Testing Project Report
-
-https://img.shields.io/badge/Status-Completed-green
-https://img.shields.io/badge/Type-Penetration%20Testing-red
-https://img.shields.io/badge/Duration-5%20Days-blue
-https://img.shields.io/badge/Milestones-4-orange
 
 ---
 ⚖️ Liability Disclaimer
