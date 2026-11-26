@@ -34,13 +34,17 @@ By exploiting a basic input manipulation flaw (`admin--`), unauthorized access w
 
 ### 2. Project Overview, Scope & Methodology
 
+
 **Liability Disclaimer**
 > These activities were performed only on systems and devices where written permission had been secured. All materials and techniques documented in this report are for educational and research purposes only. Do not use anything from here to break the law. The client, instructors, and supporting platforms are not responsible for what is done with this knowledge. Every action taken is the sole responsibility of the tester. Misuse can lead to criminal charges, heavy fines, loss of employment, and a permanent record.
 
+
 **Scope & Methodology**
+
 This report documents a 5-day, black-box penetration test against Mediroza General Hospital's website. A black-box test means starting with zero prior knowledge of the server infrastructure, simulating the approach of an external attacker. 
 
 The engagement followed a standard penetration testing methodology divided into three phases: discovering exposed files (Milestone 1), cracking the encryption on those files (Milestone 2), and identifying a critical data leak containing employee salaries (Milestone 3). This report outlines the exact toolchain utilized, the execution steps, the vulnerabilities found, and the remediation steps required to secure the infrastructure.
+
 
 ### 3. Tools Used
 The following tools were utilized during the engagement to achieve the assessment objectives:
