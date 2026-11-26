@@ -109,28 +109,28 @@ The retrieved patient PDFs were encrypted. The following methodology was applied
 
 > **📸 Milestone 2 Evidence:**
 **Web Hash Extraction:**
-![Web Tool Hash Generation](Milestone%202/web%20tool%20for%20hash%20generation.png)
-![Web Tool Hash Generation 2](Milestone%202/web%20tool%20for%20hash%20generation%202.png)
-![Web Tool Hash Generation 3](Milestone%202/web%20tool%20for%20hash%20generation%203.png)
+![Web Tool Hash Generation](Milestone%202%20evidence/web%20tool%20for%20hash%20generation.png)
+![Web Tool Hash Generation 2](Milestone%202%20evidence/web%20tool%20for%20hash%20generation%202.png)
+![Web Tool Hash Generation 3](Milestone%202%20evidence/web%20tool%20for%20hash%20generation%203.png)
 
 **Saving the Hashes:**
-![Mousepad Hash File](Milestone%202/Mousepad%20hash%20file.png)
-![Mousepad Hash Files](Milestone%202/mousepad%20hash%20files.png)
+![Mousepad Hash File](Milestone%202%20evidence/Mousepad%20hash%20file.png)
+![Mousepad Hash Files](Milestone%202%20evidence/mousepad%20hash%20files.png)
 
 **Cracking the Passwords (Johnny GUI):**
-![Johnny GUI](Milestone%202/Johnny%20GUI%20cracked%20passwords.png)
+![Johnny GUI](Milestone%202%20evidence/Johnny%20GUI%20cracked%20passwords.png)
 
 **Post-Exploitation (Cracked Reports):**
-![Cracked Password Report 1](Milestone%202/cracked%20password%20-%20report%201.png)
-![Cracked Password Report 2](Milestone%202/cracked%20password%20-%20report%202.png)
-![Cracked Password Report 3](Milestone%202/cracked%20password%20-%20report%203.png)
+![Cracked Password Report 1](Milestone%202%20evidence/cracked%20password%20-%20report%201.png)
+![Cracked Password Report 2](Milestone%202%20evidence/cracked%20password%20-%20report%202.png)
+![Cracked Password Report 3](Milestone%202%20evidence/cracked%20password%20-%20report%203.png)
 
 **Extracted Data:**
-![Downloaded Reports](Milestone%202/downloaded%20reports.png)
-![Lab Reports](Milestone%202/lab%20reports.png)
-![Report Details](Milestone%202/report%20details.png)
-![Report Details 2](Milestone%202/report%20details%202.png)
-![Report Details 3](Milestone%202/report%20details%203.png)
+![Downloaded Reports](Milestone%202%20evidence/downloaded%20reports.png)
+![Lab Reports](Milestone%202%20evidence/lab%20reports.png)
+![Report Details](Milestone%202%20evidence/report%20details.png)
+![Report Details 2](Milestone%202%20evidence/report%20details%202.png)
+![Report Details 3](Milestone%202%20evidence/report%20details%203.png)
 
 #### 📍 Milestone 3: Attack (Cracking) & Critical Data Extraction
 The objective of this phase was to uncover staff salaries and shareholder details.
