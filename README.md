@@ -142,10 +142,17 @@ The objective of this phase was to uncover staff salaries and shareholder detail
     *   **Shareholders Table:** 10 records exposing shareholder names, exact share percentages, and share classes.
 
 > **📸 Milestone 3 Evidence:**
-> *Insert screenshots of the Firefox directory listing, the `robots.txt` file, and the Mousepad SQL database file below.*
+**Discovery & Enumeration:**
+![Robots.txt File](Milestone%203%20evidence/robots.txt%20file.png)
+![Mediroza Old Directory Listing](Milestone%203%20evidence/mediroza_old_dir_listing.png)
+![Gobuster File Enumeration](Milestone%203%20evidence/gobuster%20file.png)
 
-![Milestone 3](./images/milestone3.png)
+**Data Exfiltration:**
+![Wget Download](Milestone%203%20evidence/wget.png)
 
+**Impact: Exposed Sensitive Data:**
+![Exposed SQL Backup Staff PII](Milestone%203%20evidence/exposed_sql_backup_staff_pii.png)
+![Mediroza DB Staff Salaries Exposed](Milestone%203%20evidence/mediroza_db_staff_salaries_exposed.png)
 ---
 
 ### 5. Risk Findings & Evidence
