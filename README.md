@@ -64,7 +64,7 @@ The following tools were utilized during the engagement to achieve the assessmen
 | **Mousepad** | Used to save extracted hashes and read the downloaded SQL database backup. |
 | **John the Ripper (CLI & GUI)** | Deployed to crack the PDF encryption using the RockYou wordlist. |
 | **wget** | Used to download the exposed SQL database backup from the server. |
-
+|** Nmap / Zenmap** | Used for network discovery, port scanning, and service version detection. |
 ---
 
 ### 4. Project Execution & Milestones
@@ -75,7 +75,7 @@ The assessment commenced with footprinting to gather intelligence on the target:
 *   **Nslookup:** The target domain was resolved to its live server IP address 
 *   **Curl & DNSRecon:** HTTP headers and DNS records were enumerated.
 *   **Wafw00f:** The target was identified as being protected by a **LiteSpeed** Web Application Firewall.
-
+*   **Nmap / Zenmap:** Used for active network scanning, identifying open ports, and detecting service versions. 
 Following reconnaissance, **Gobuster** was utilized to brute-force directories, which revealed hidden folders, specifically `/staff/` and `/old/`. 
 
 Upon accessing the `/staff/` directory, a login portal was presented. Input manipulation was tested, leading to the discovery of an **SQL Injection (Authentication Bypass)** vulnerability. By inputting **`admin--`** into the login field, the password verification was bypassed. This unauthorized access permitted the download of three confidential patient PDF lab reports.
