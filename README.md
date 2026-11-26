@@ -68,7 +68,7 @@ The following tools were utilized during the engagement to achieve the assessmen
 #### 📍 Milestone 1: Initial Access & Reconnaissance
 The assessment commenced with footprinting to gather intelligence on the target:
 *   **WHOIS & WhatWeb:** Domain registration details and web technologies were identified.
-*   **Nslookup:** The target domain was resolved to its live server IP address starting with **198.x.x.x**.
+*   **Nslookup:** The target domain was resolved to its live server IP address 
 *   **Curl & DNSRecon:** HTTP headers and DNS records were enumerated.
 *   **Wafw00f:** The target was identified as being protected by a **LiteSpeed** Web Application Firewall.
 
