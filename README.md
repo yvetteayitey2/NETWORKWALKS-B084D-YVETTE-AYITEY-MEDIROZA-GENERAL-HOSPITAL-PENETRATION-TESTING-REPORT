@@ -81,21 +81,23 @@ Following reconnaissance, **Gobuster** was utilized to brute-force directories, 
 Upon accessing the `/staff/` directory, a login portal was presented. Input manipulation was tested, leading to the discovery of an **SQL Injection (Authentication Bypass)** vulnerability. By inputting **`admin--`** into the login field, the password verification was bypassed. This unauthorized access permitted the download of three confidential patient PDF lab reports.
 
  **📸 Milestone 1 Evidence:**
-![Admin Login](Admin--%20login.png)
+ Milestone 1 Evidence:
 
-![Curl Headers](Curl%20-I.png)
+![Admin Login](Milestone%201/Admin--%20login.png)
 
-![DNSRecon](Dnsrecon.png)
+![Curl Headers](Milestone%201/Curl%20-I.png)
 
-![Nslookup](Nslookup.png)
+![DNSRecon](Milestone%201/Dnsrecon.png)
 
-![Wafw00f](Wafw00f.png)
+![Nslookup](Milestone%201/Nslookup.png)
 
-![Whois](Whois.png)
+![Wafw00f](Milestone%201/Wafw00f.png)
 
-![Gobuster](gobuster%20file.png)
+![Whois](Milestone%201/Whois.png)
 
-![Nmap Port Scan](nmap_port_scan_results.png)
+![Gobuster](Milestone%201/gobuster%20file.png)
+
+![Nmap Port Scan](Milestone%201/nmap_port_scan_results.png)
 
 #### 📍 Milestone 2: Data Extraction & File Cracking
 The retrieved patient PDFs were encrypted. The following methodology was applied to recover the contents:
