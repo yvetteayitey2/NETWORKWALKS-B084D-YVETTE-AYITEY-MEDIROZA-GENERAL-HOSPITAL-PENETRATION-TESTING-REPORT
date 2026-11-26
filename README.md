@@ -64,7 +64,7 @@ The following tools were utilized during the engagement to achieve the assessmen
 | **Mousepad** | Used to save extracted hashes and read the downloaded SQL database backup. |
 | **John the Ripper (CLI & GUI)** | Deployed to crack the PDF encryption using the RockYou wordlist. |
 | **wget** | Used to download the exposed SQL database backup from the server. |
-|** Nmap / Zenmap** | Used for network discovery, port scanning, and service version detection. |
+|**Nmap / Zenmap** | Used for network discovery, port scanning, and service version detection. |
 ---
 
 ### 4. Project Execution & Milestones
